@@ -9,6 +9,7 @@
     grid-gap: 20px;
     padding-right:10px ;
     /* background-color: #FFFFFF; */
+    border-bottom:1PX solid #E5E5E5;
 }
 
 .nav-font{
@@ -25,7 +26,8 @@
 }
 
 .section-part{
-    background-color: #E5E5E5;
+    /* background-color: #E5E5E5; */
+    background-color: #FFFFFF;
     height: 100%;
     width: 100%;
     overflow: hidden;
